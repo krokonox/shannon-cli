@@ -1,0 +1,4 @@
+[console_scripts]
+ent = cli:calculate_entropy
+entropy = cli:calculate_entropy
+shannon = cli:calculate_shannon_encoding

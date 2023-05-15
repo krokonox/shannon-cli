@@ -1,0 +1,9 @@
+cli.py
+entropy.py
+setup.py
+entropy_cli.egg-info/PKG-INFO
+entropy_cli.egg-info/SOURCES.txt
+entropy_cli.egg-info/dependency_links.txt
+entropy_cli.egg-info/entry_points.txt
+entropy_cli.egg-info/requires.txt
+entropy_cli.egg-info/top_level.txt
